@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main() {
+    printf("%c%c%c%c\n", 104, 97, 109, 105, 100);
+    printf("%c%c%c%c%c%c%c%c", 99, 104, 111, 111, 112, 97, 110, 105);
+    return 0;
+}
+
